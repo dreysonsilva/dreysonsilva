@@ -1,4 +1,5 @@
-## Olá sou DREYSON SANTIAGO, estudante de programação e tecnologia! 
+## Olá sou DREYSON SANTIAGO, estudante de programação e tecnologia!<br/> <br/>Conhecimento é a única coisa que vai te tirar de um canto para outro. <br/><br/><br/>
+
 
 <div align="center">
   <a href="https://github.com/dreysonsilva">
