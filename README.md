@@ -1,4 +1,4 @@
-## Olá sou DREYSON SANTIAGO, estudante de programação e tecnologia!<br/>
+## Olá sou DREYSON SANTIAGO, estudante de Analise e Desenvolvimento de Sistemas e aspirante na programação<br/>
 <div align="center">
   <a href="https://github.com/dreysonsilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dreysonsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
