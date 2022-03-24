@@ -22,9 +22,10 @@
   <img align="center" alt="dreyson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
  
   <img align="center" alt="dreyson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-</div>
-<img align="center" alt="AWS" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
+  <img align="center" alt="AWS" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
  
+</div>
+
   ##
  
 <div> 
