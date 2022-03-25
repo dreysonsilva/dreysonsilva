@@ -1,5 +1,5 @@
 
-  ## Olá sou DREYSON SANTIAGO, estudante de Analise e Desenvolvimento de Sistemas e aspirante na programação<br/><br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Hello+👋+!+my+name+is+Dreyson+Santiago+;Welcome+to+My+Profile!;+technology+enthusiast+❤️+)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/dreysonsilva">
@@ -26,6 +26,7 @@
   <a href="https://instagram.com/dreysonsilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:dreysoninformar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dreyson-santiago-665743183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://wa.me/5581999845890"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
