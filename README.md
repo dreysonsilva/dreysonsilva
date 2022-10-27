@@ -2,18 +2,18 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&Left=true&vLeft=true&width=600&lines=Hello+👋+!+my+name+is+Dreyson+Santiago+;Welcome+to+My+Profile!;+technology+enthusiast+❤️+)](https://git.io/typing-svg)
 
 <div align="center">
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dreysonsilva&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreysonsilva&layout=compact&langs_count=7&theme=white"/>
-  </div>
+  </div><br><br>
   CONHECIMENTOS
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
      <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+  </div><br><br>
   
   <p>ESTUDANDO</p>  
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Spring Boot" width="30" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
   
