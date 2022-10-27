@@ -2,16 +2,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&Left=true&vLeft=true&width=600&lines=Hello+👋+!+my+name+is+Dreyson+Santiago+;Welcome+to+My+Profile!;+technology+enthusiast+❤️+)](https://git.io/typing-svg)
 
 <div align="center">
-  <a href="https://github.com/dreysonsilva">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dreysonsilva&show_icons=true&theme=white&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreysonsilva&layout=compact&langs_count=7&theme=white"/>
-</div>
   
-  <p>CONHECIMENTOS</p>
-  <div style="display: inline_block"><br>
+  CONHECIMENTOS
      <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
      <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  </div>
+
   
   <p>ESTUDANDO</p>  
 <div style="display: inline_block"><br>
