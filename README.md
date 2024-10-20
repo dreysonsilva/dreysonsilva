@@ -1,4 +1,5 @@
-<h3 align="left">Olá, seja bem vindo ao meu perfil do github, aqui você vai encontrar alguns projetos feito durante minha jornada. Vamos nos conectar?</h3>
+<h3 align="left">Olá! Eu sou o Dreyson Santiago 👋,Seja bem vindo ao meu perfil do github aqui você vai encontrar alguns projetos feito durante minha jornada.
+   Sou um desenvolvedor Java em transição de carreira, com mais de 9 anos de experiência em suporte técnico. Atualmente, estou focado em aprender e crescer na área de desenvolvimento de software, buscando aplicar as melhores práticas de programação para resolver problemas de forma eficiente e criativa. Vamos nos conectar? </h3>
 <div>
     <a href="https://www.linkedin.com/in/dreyson-santiago-665743183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://wa.me/5581999845890"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
