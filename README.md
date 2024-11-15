@@ -1,5 +1,9 @@
-Olá! Eu sou o Dreyson Santiago 👋,Seja bem vindo ao meu perfil do github aqui você vai encontrar alguns projetos feito durante minha jornada.
-   Sou um desenvolvedor Java em transição de carreira, com mais de 9 anos de experiência em suporte técnico. Atualmente, estou focado em aprender e crescer na área de desenvolvimento de software, buscando aplicar as melhores práticas de programação para resolver problemas de forma eficiente e criativa. Vamos nos conectar?
+Olá, sou o Dreyson Santiago 👋<br>
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jornada. Sou um desenvolvedor Java em transição de carreira, com mais de 9 anos de experiência em suporte técnico. Ao longo dessa trajetória, desenvolvi uma forte base de resolução de problemas e uma paixão por aprender novas tecnologias.<br><br>
+
+Atualmente, estou totalmente focado em expandir meus conhecimentos na área de desenvolvimento de software, buscando sempre aplicar as melhores práticas de programação para criar soluções eficientes, escaláveis e inovadoras. Estou constantemente me desafiando a melhorar minhas habilidades e a me conectar com profissionais da área.<br><br>
+
+Se você também tem interesse por tecnologia, desenvolvimento e inovação, vamos nos conectar! Ficarei feliz em trocar experiências e aprender juntos. 🚀<br><br>
 <div>
     <a href="https://www.linkedin.com/in/dreyson-santiago-665743183/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href="https://wa.me/5581999845890"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
