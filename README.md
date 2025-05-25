@@ -1,5 +1,5 @@
 Olá, sou o Dreyson Santiago 👋<br>
-Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jornada. Sou suporte técnico com mais de 9 anos de experiência e estou em transição de carreira para se tornar um desenvolvedor java. Ao longo dessa trajetória, desenvolvi uma forte base de resolução de problemas e uma paixão por aprender novas tecnologias.<br>
+Bem-vindo ao meu perfil no GitHub! Aqui você encontrará alguns dos projetos que desenvolvi ao longo da minha jornada. Sou suporte técnico com mais de 9 anos de experiência e estou em transição de carreira para se tornar um desenvolvedor. Ao longo dessa trajetória, desenvolvi uma forte base de resolução de problemas e uma paixão por aprender novas tecnologias.<br>
 
 Atualmente, estou totalmente focado em expandir meus conhecimentos na área de desenvolvimento de software, buscando sempre aplicar as melhores práticas de programação para criar soluções eficientes, escaláveis e inovadoras. Estou constantemente me desafiando a melhorar minhas habilidades e a me conectar com profissionais da área.<br><br>
 
