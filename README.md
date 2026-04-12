@@ -11,7 +11,6 @@ Se você também tem interesse por tecnologia, desenvolvimento e inovação, vam
   <a href = "mailto:dreysoninformar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreysonsilva&layout=compact&langs_count=7&theme=dracula"/>
 <div style="display: inline_block">
 <h3 align="left">Linguagens e Ferramentas:</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
